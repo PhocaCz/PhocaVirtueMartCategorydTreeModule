@@ -1,0 +1,1 @@
+Phoca VirtueMart Category dTree Module is Joomla! CMS extension. Module which displays category tree of VirtueMart in module position.
